@@ -1,0 +1,2 @@
+# winGaleri
+Resim Galerisi Uygulaması
