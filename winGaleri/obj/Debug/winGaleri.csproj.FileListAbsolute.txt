@@ -1,0 +1,9 @@
+C:\Users\HasKhan\Desktop\winGaleri\winGaleri\bin\Debug\winGaleri.exe.config
+C:\Users\HasKhan\Desktop\winGaleri\winGaleri\bin\Debug\winGaleri.exe
+C:\Users\HasKhan\Desktop\winGaleri\winGaleri\bin\Debug\winGaleri.pdb
+C:\Users\HasKhan\Desktop\winGaleri\winGaleri\obj\Debug\winGaleri.csprojResolveAssemblyReference.cache
+C:\Users\HasKhan\Desktop\winGaleri\winGaleri\obj\Debug\winGaleri.Form1.resources
+C:\Users\HasKhan\Desktop\winGaleri\winGaleri\obj\Debug\winGaleri.Properties.Resources.resources
+C:\Users\HasKhan\Desktop\winGaleri\winGaleri\obj\Debug\winGaleri.csproj.GenerateResource.Cache
+C:\Users\HasKhan\Desktop\winGaleri\winGaleri\obj\Debug\winGaleri.exe
+C:\Users\HasKhan\Desktop\winGaleri\winGaleri\obj\Debug\winGaleri.pdb
